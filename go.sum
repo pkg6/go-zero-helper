@@ -1,0 +1,4 @@
+github.com/zeromicro/go-zero v1.10.0 h1:+qfAqj+BGt0qjW1PQk2VO5WLwIQBh60CA3OTLsBosS8=
+github.com/zeromicro/go-zero v1.10.0/go.mod h1:qAModWGsfkrBl0JP9oS7K7k6dgucExOuQdpzHyXVKLg=
+gorm.io/gorm v1.31.1 h1:7CA8FTFz/gRfgqgpeKIBcervUn3xSyPUmr6B2WXJ7kg=
+gorm.io/gorm v1.31.1/go.mod h1:XyQVbO2k6YkOis7C2437jSit3SsDK72s7n7rsSHd+Gs=
